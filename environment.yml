@@ -9,3 +9,7 @@ dependencies:
     - matplotlib
     - seaborn
     - lxml
+    - requests
+    - python-dotenv
+    - tqdm
+    - psutil
