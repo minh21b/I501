@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="undirected"><node id="Minh"/>
+<node id="Dad"/>
+<node id="Mom"/>
+<node id="Brother"/>
+<node id="Jaden"/>
+<node id="Jacob"/>
+<node id="Austin"/>
+<edge source="Minh" target="Dad"/>
+<edge source="Minh" target="Mom"/>
+<edge source="Minh" target="Brother"/>
+<edge source="Minh" target="Jaden"/>
+<edge source="Minh" target="Jacob"/>
+<edge source="Minh" target="Austin"/>
+<edge source="Dad" target="Brother"/>
+<edge source="Dad" target="Mom"/>
+<edge source="Mom" target="Brother"/>
+</graph></graphml>
