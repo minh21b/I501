@@ -16,3 +16,4 @@ dependencies:
     - networkx
     - geopy
     - folium
+    - nbformat
