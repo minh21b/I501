@@ -17,3 +17,10 @@ dependencies:
     - geopy
     - folium
     - nbformat
+    - spacy
+    - scattertext
+    - nltk
+    - scikit-learn
+    - corextopic
+    - vaderSentiment
+    - ipywidgets
