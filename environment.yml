@@ -24,3 +24,5 @@ dependencies:
     - corextopic
     - vaderSentiment
     - ipywidgets
+    - boto3
+    - streamlit
