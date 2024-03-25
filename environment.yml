@@ -13,6 +13,16 @@ dependencies:
     - python-dotenv
     - tqdm
     - psutil
+    - networkx
+    - geopy
+    - folium
+    - nbformat
+    - spacy
+    - scattertext
     - nltk
-    - termcolor
     - scikit-learn
+    - corextopic
+    - vaderSentiment
+    - ipywidgets
+    - boto3
+    - streamlit
