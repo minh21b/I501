@@ -26,3 +26,4 @@ dependencies:
     - ipywidgets
     - boto3
     - streamlit
+    - prophet
